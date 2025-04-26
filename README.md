@@ -1,5 +1,24 @@
 # 💫 About Me:
-<br>👋 Hi, I'm Omar Sulaiman Shakir<br>🔹 Cybersecurity Researcher | Bachelor's in Software Engineering<br> | Master's in Cyber Security<br><br>Welcome to my GitHub!<br> I'm passionate about building secure, intelligent systems and exploring the intersection between cybersecurity, AI, and software engineering.<br>🎓 Education<br>Master’s in Cybersecurity – Üsküdar University, Istanbul, Türkiye<br>Bachelor’s in Software Engineering – Üsküdar University, Istanbul, Türkiye<br>🛠️ Skills<br>AI, Machine Learning, Deep Learning<br>Cybersecurity Research & Threat Analysis<br>Python, OpenCV, Machine Learning Pipelines<br>Database Management Systems<br>Academic Research, Technical Writing<br>Strong problem-solving, teamwork, and communication skills<br>Microsoft Office Suite | Google Suite | Open to learning new technologies<br><br>🌍 Languages<br>Arabic (Fluent) | English (Fluent) | Turkish (Fluent)<br>Kurdish (Fluent) | Turkmen (Fluent)<br><br>🔗 Let's Connect<br>📧 Email: omarsshakr@gmail.com<br>💼 LinkedIn: linkedin.com/in/omar-s-shakir<br>🌐 Portfolio: mrosamv.com<br><br>
+<br>👋 Hi, I'm Omar Sulaiman Shakir<br>🔹 Cybersecurity Researcher | Bachelor's in Software Engineering <br> | Master's in Cyber Security <br>
+
+<br> Welcome to my GitHub! <br> 
+
+I'm passionate about building secure, intelligent systems and exploring the intersection between cybersecurity, AI, and software engineering.<br>
+
+
+🎓 Education<br>Master’s in Cybersecurity – Üsküdar University, Istanbul, Türkiye<br>Bachelor’s in Software Engineering – Üsküdar University, Istanbul, Türkiye
+
+<br>🛠️ Skills<br>AI, Machine Learning, Deep Learning<br>Cybersecurity Research & Threat Analysis<br>Python, OpenCV, Machine Learning Pipelines<br>Database Management Systems<br>Academic Research, Technical Writing<br>Strong problem-solving, teamwork, and communication skills<br>Microsoft Office Suite | Google Suite | Open to learning new technologies<br>
+
+
+<br>🌍 Languages<br>
+
+Arabic (Fluent) | English (Fluent) | Turkish (Fluent)<br>Kurdish (Fluent) | Turkmen (Fluent)<br><br>🔗 Let's Connect
+
+<br>📧 Email: omarsshakr@gmail.com
+<br>💼 LinkedIn: https://www.linkedin.com/in/omar-s-shakir/
+<br>🌐 Portfolio: mrosamv.com<br><br>
+
 
 
 # 💻 Tech Stack:
