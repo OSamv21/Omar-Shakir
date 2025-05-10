@@ -22,8 +22,8 @@ technologies<br>
 Arabic (Fluent) | English (Fluent) | Turkish (Fluent)<br>Kurdish (Fluent) | Turkmen (Fluent)<br><br>🔗 Let's Connect
 
 <br>📧 Email: omarsshakr@gmail.com
-<br>💼 LinkedIn: https://www.linkedin.com/in/omar-s-shakir/
-<br>🌐 Portfolio: mrosamv.com<br><br>
+<br>💼 LinkedIn: https://www.linkedin.com/in/omar-s-shakir
+<br>🌐 Portfolio: https://mrosamv.com <br><br>
 
 
 
