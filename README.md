@@ -23,7 +23,6 @@ Arabic (Fluent) | English (Fluent) | Turkish (Fluent)<br>Kurdish (Fluent) | Turk
 
 <br>📧 Email: omarsshakr@gmail.com
 <br>💼 LinkedIn: https://www.linkedin.com/in/omar-s-shakir
-<br>🌐 Portfolio: https://mrosamv.com <br><br>
 
 
 
